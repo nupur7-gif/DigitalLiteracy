@@ -45,7 +45,8 @@ The project is divided into five tasks, each focusing on a different aspect of d
 * Completed a beginner coding challenge on HackerRank
 * Created a Digital Literacy Quiz using Google Forms
 
-🔗 **Google Form Link:** [https://forms.google.com/your-form-link](https://forms.google.com/your-form-link)
+🔗 **Google Form Link:** (https://forms.gle/vFeLgPL5PduFvQ7q7)
+ **Responses :** https://docs.google.com/spreadsheets/d/1qDsiwBI4jJhMbmslZxC3DKjIR6ElmrcIqq4VHPrAD6g/edit?usp=sharing
 
 * Added screenshots of the quiz and responses in task-3-platforms
 
